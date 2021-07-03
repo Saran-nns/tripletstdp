@@ -239,3 +239,6 @@ Del Papa, B., Priesemann, V., & Triesch, J. (2017). Criticality meets learning: 
 
 Zheng, P., Dimitrakakis, C., & Triesch, J. (2013). Network Self-Organization Explains the Statistics and Dynamics of Synaptic Connection Strengths in Cortex. PLoS Computational Biology, 9(1). https://doi.org/10.1371/journal.pcbi.1002848  
 
+Elementary Principles of Nonlinear Synaptic
+Transmission, Henry Markram https://link.springer.com/chapter/10.1007/978-1-4471-0085-0_5
+
